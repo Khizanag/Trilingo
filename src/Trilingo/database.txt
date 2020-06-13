@@ -1,0 +1,12 @@
+Ball$ბურთი
+Messi$მესი
+Thomas$თომა
+Prime$მარტივი
+Easy$მარტივი
+Chair$სკამი
+Table$მაგიდა
+Rocket$რაკეტა
+Bat$ღამურა
+Man$კაცი
+Woman$ქალი
+Boy$ბიჭი
